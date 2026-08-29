@@ -1,0 +1,1625 @@
+{
+  "courses": [
+    {
+      "id": "py-fullstack",
+      "category": "dasturlash",
+      "title": "Python asoslaridan Full-Stack gacha",
+      "teacher": "Sardor Aliyev",
+      "level": "Boshlang'ich",
+      "duration": "12 hafta",
+      "lessons": 48,
+      "rating": 4.8,
+      "students": 1240,
+      "accent": "#F2C94C",
+      "summary": "Sintaksisdan boshlab, Django yordamida to'liq web-ilova qurishni o'rganasiz.",
+      "syllabus": [
+        "Python sintaksisi va ma'lumotlar tuzilmalari",
+        "Ob'ektga yo'naltirilgan dasturlash",
+        "Django bilan backend qurish",
+        "Ma'lumotlar bazasi bilan ishlash",
+        "Yakuniy loyihani deploy qilish"
+      ],
+      "plans": {
+        "oddiy": {
+          "price": 450000,
+          "features": [
+            "Video darslar",
+            "Uy vazifalari",
+            "Forumda savol-javob"
+          ]
+        },
+        "premium": {
+          "price": 690000,
+          "features": [
+            "Video darslar",
+            "Uy vazifalari",
+            "Forumda savol-javob",
+            "1:1 mentorlik",
+            "Kod review",
+            "Sertifikat"
+          ]
+        }
+      },
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKhg-9yjD0EjXFiy1WhZ3Hjriar82FqU9k8XgRTxiENJK-Mz11c_FPtl0&s=10",
+      "videoUrl": "https://www.youtube.com/watch?v=0VF5twldC2Y",
+      "translations": {
+        "uz": {
+          "title": "Python asoslaridan Full-Stack gacha",
+          "summary": "Sintaksisdan boshlab, Django yordamida to'liq web-ilova qurishni o'rganasiz.",
+          "syllabus": [
+            "Python sintaksisi va ma'lumotlar tuzilmalari",
+            "Ob'ektga yo'naltirilgan dasturlash",
+            "Django bilan backend qurish",
+            "Ma'lumotlar bazasi bilan ishlash",
+            "Yakuniy loyihani deploy qilish"
+          ]
+        },
+        "en": {
+          "title": "From Python basics to Full-Stack",
+          "summary": "Learn to build a complete web application with Django, from syntax to deployment.",
+          "syllabus": [
+            "Python syntax and data structures",
+            "Object-oriented programming",
+            "Building a backend with Django",
+            "Working with databases",
+            "Deploying the final project"
+          ]
+        },
+        "ru": {
+          "title": "От основ Python до Full-Stack",
+          "summary": "Научитесь создавать полноценные веб-приложения на Django: от синтаксиса до публикации.",
+          "syllabus": [
+            "Синтаксис Python и структуры данных",
+            "Объектно-ориентированное программирование",
+            "Backend на Django",
+            "Работа с базами данных",
+            "Публикация итогового проекта"
+          ]
+        }
+      },
+      "lessonVideos": [
+        {
+          "title": "1-dars",
+          "videoUrl": "https://www.youtube.com/watch?v=0VF5twldC2Y"
+        },
+        {
+          "title": "2-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "3-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "4-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "5-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "6-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "7-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "8-dars",
+          "videoUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "js-react",
+      "category": "dasturlash",
+      "title": "JavaScript va React bilan Web dasturlash",
+      "teacher": "Dilnoza Karimova",
+      "level": "O'rta",
+      "duration": "10 hafta",
+      "lessons": 40,
+      "rating": 4.9,
+      "students": 980,
+      "accent": "#F2C94C",
+      "summary": "Zamonaviy interaktiv web-ilovalarni React ekotizimida qurishni o'rganasiz.",
+      "syllabus": [
+        "JavaScript ES6+ asoslari",
+        "React komponentlari va hook'lar",
+        "State boshqaruvi",
+        "API bilan ishlash",
+        "Loyihani production'ga chiqarish"
+      ],
+      "plans": {
+        "oddiy": {
+          "price": 590000,
+          "features": [
+            "Video darslar",
+            "Amaliy loyihalar",
+            "Forumda savol-javob"
+          ]
+        },
+        "premium": {
+          "price": 890000,
+          "features": [
+            "Video darslar",
+            "Amaliy loyihalar",
+            "Forumda savol-javob",
+            "1:1 mentorlik",
+            "Kod review",
+            "Sertifikat"
+          ]
+        }
+      },
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=900&q=80",
+      "videoUrl": "https://www.youtube.com/watch?v=-mJFZp84TIY",
+      "lessonVideos": [
+        {
+          "title": "1-dars",
+          "videoUrl": "https://www.youtube.com/watch?v=-mJFZp84TIY"
+        },
+        {
+          "title": "2-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "3-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "4-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "5-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "6-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "7-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "8-dars",
+          "videoUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "backend-node",
+      "category": "dasturlash",
+      "title": "Backend dasturlash: Node.js va PostgreSQL",
+      "teacher": "Jasur Rakhimov",
+      "level": "Yuqori",
+      "duration": "14 hafta",
+      "lessons": 52,
+      "rating": 4.7,
+      "students": 610,
+      "accent": "#F2C94C",
+      "summary": "Ishonchli va tez ishlaydigan backend tizimlarni arxitektura qilishni o'rganasiz.",
+      "syllabus": [
+        "Node.js va Express asoslari",
+        "REST va GraphQL API'lar",
+        "PostgreSQL bilan ma'lumotlar modeli",
+        "Autentifikatsiya va xavfsizlik",
+        "Yuklama testlari va deploy"
+      ],
+      "plans": {
+        "oddiy": {
+          "price": 620000,
+          "features": [
+            "Video darslar",
+            "Amaliy loyihalar",
+            "Forumda savol-javob"
+          ]
+        },
+        "premium": {
+          "price": 940000,
+          "features": [
+            "Video darslar",
+            "Amaliy loyihalar",
+            "Forumda savol-javob",
+            "1:1 mentorlik",
+            "Kod review",
+            "Sertifikat"
+          ]
+        }
+      },
+      "image": "https://img.magnific.com/premium-photo/react-js-programming-language-with-laptop-code-script-screen_1020200-5413.jpg?semt=ais_test_b&w=740&q=80",
+      "videoUrl": "https://youtu.be/P_mtOnagXcI?t=2",
+      "lessonVideos": [
+        {
+          "title": "1-dars",
+          "videoUrl": "https://youtu.be/P_mtOnagXcI?t=2"
+        },
+        {
+          "title": "2-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "3-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "4-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "5-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "6-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "7-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "8-dars",
+          "videoUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "flutter-mobile",
+      "category": "dasturlash",
+      "title": "Mobil ilovalar: Flutter bilan",
+      "teacher": "Aziz Yusupov",
+      "level": "O'rta",
+      "duration": "10 hafta",
+      "lessons": 36,
+      "rating": 4.6,
+      "students": 540,
+      "accent": "#F2C94C",
+      "summary": "Bitta koddan iOS va Android uchun ilovalar yaratishni o'rganasiz.",
+      "syllabus": [
+        "Dart tili asoslari",
+        "Flutter widget'lari",
+        "Holat boshqaruvi (Provider/Riverpod)",
+        "Firebase bilan integratsiya",
+        "Store'ga chiqarish jarayoni"
+      ],
+      "plans": {
+        "oddiy": {
+          "price": 550000,
+          "features": [
+            "Video darslar",
+            "Amaliy loyihalar",
+            "Forumda savol-javob"
+          ]
+        },
+        "premium": {
+          "price": 820000,
+          "features": [
+            "Video darslar",
+            "Amaliy loyihalar",
+            "Forumda savol-javob",
+            "1:1 mentorlik",
+            "Kod review",
+            "Sertifikat"
+          ]
+        }
+      },
+      "image": "https://md.uz/uploads/images/services/org/R2ZCF1kPGCEO.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=0q802e7MC7A",
+      "lessonVideos": [
+        {
+          "title": "1-dars",
+          "videoUrl": "https://www.youtube.com/watch?v=0q802e7MC7A"
+        },
+        {
+          "title": "2-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "3-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "4-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "5-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "6-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "7-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "8-dars",
+          "videoUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "uiux-basics",
+      "category": "dizayn",
+      "title": "UI/UX dizayn asoslari",
+      "teacher": "Nilufar Xasanova",
+      "level": "Boshlang'ich",
+      "duration": "8 hafta",
+      "lessons": 28,
+      "rating": 4.8,
+      "students": 890,
+      "accent": "#E8604C",
+      "summary": "Foydalanuvchi tajribasini tadqiq qilishdan interfeys prototipigacha bo'lgan yo'l.",
+      "syllabus": [
+        "UX tadqiqot metodlari",
+        "Wireframe va prototiplash",
+        "Dizayn tizimlari",
+        "Foydalanuvchi testlari",
+        "Portfolio loyihasi"
+      ],
+      "plans": {
+        "oddiy": {
+          "price": 480000,
+          "features": [
+            "Video darslar",
+            "Amaliy topshiriqlar",
+            "Forumda savol-javob"
+          ]
+        },
+        "premium": {
+          "price": 730000,
+          "features": [
+            "Video darslar",
+            "Amaliy topshiriqlar",
+            "Forumda savol-javob",
+            "1:1 mentorlik",
+            "Dizayn tahlili",
+            "Sertifikat"
+          ]
+        }
+      },
+      "image": "https://www.shutterstock.com/image-photo/holographic-uiux-display-icons-uxui-260nw-2613403555.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=0ZyY6WddWuk",
+      "lessonVideos": [
+        {
+          "title": "1-dars",
+          "videoUrl": "https://www.youtube.com/watch?v=0ZyY6WddWuk"
+        },
+        {
+          "title": "2-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "3-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "4-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "5-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "6-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "7-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "8-dars",
+          "videoUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "figma-product",
+      "category": "dizayn",
+      "title": "Figma bilan mahsulot dizayni",
+      "teacher": "Kamola Tosheva",
+      "level": "O'rta",
+      "duration": "6 hafta",
+      "lessons": 20,
+      "rating": 4.9,
+      "students": 720,
+      "accent": "#E8604C",
+      "summary": "Figma'ning barcha imkoniyatlaridan foydalanib mahsulot dizayni qilishni o'rganasiz.",
+      "syllabus": [
+        "Figma interfeysi va komponentlar",
+        "Auto Layout va variantlar",
+        "Interaktiv prototiplash",
+        "Jamoaviy ish jarayoni",
+        "Handoff dasturchilarga"
+      ],
+      "plans": {
+        "oddiy": {
+          "price": 420000,
+          "features": [
+            "Video darslar",
+            "Amaliy topshiriqlar",
+            "Forumda savol-javob"
+          ]
+        },
+        "premium": {
+          "price": 640000,
+          "features": [
+            "Video darslar",
+            "Amaliy topshiriqlar",
+            "Forumda savol-javob",
+            "1:1 mentorlik",
+            "Dizayn tahlili",
+            "Sertifikat"
+          ]
+        }
+      },
+      "image": "https://habrastorage.org/getpro/habr/upload_files/b13/a5f/6eb/b13a5f6eb8eb75a948415ac99da8baf1.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=-mbYAj5hvLs",
+      "lessonVideos": [
+        {
+          "title": "1-dars",
+          "videoUrl": "https://www.youtube.com/watch?v=-mbYAj5hvLs"
+        },
+        {
+          "title": "2-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "3-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "4-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "5-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "6-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "7-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "8-dars",
+          "videoUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "graphic-branding",
+      "category": "dizayn",
+      "title": "Grafik dizayn va brending",
+      "teacher": "Botir Nazarov",
+      "level": "Boshlang'ich",
+      "duration": "8 hafta",
+      "lessons": 24,
+      "rating": 4.7,
+      "students": 460,
+      "accent": "#E8604C",
+      "summary": "Logotip, brend kitobi va vizual identifikatsiya yaratishni o'rganasiz.",
+      "syllabus": [
+        "Rang va tipografika asoslari",
+        "Logotip yaratish jarayoni",
+        "Brend kitobi tuzish",
+        "Adobe Illustrator amaliyoti",
+        "Yakuniy brend loyihasi"
+      ],
+      "plans": {
+        "oddiy": {
+          "price": 390000,
+          "features": [
+            "Video darslar",
+            "Amaliy topshiriqlar",
+            "Forumda savol-javob"
+          ]
+        },
+        "premium": {
+          "price": 590000,
+          "features": [
+            "Video darslar",
+            "Amaliy topshiriqlar",
+            "Forumda savol-javob",
+            "1:1 mentorlik",
+            "Dizayn tahlili",
+            "Sertifikat"
+          ]
+        }
+      },
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU8u5Zk4ICKSINXdrTM6kSg1XsGtdcBoTkwl27y0dhmlMkM4BQ8HVz2BA&s=10",
+      "videoUrl": "https://www.youtube.com/watch?v=0PCYjP3I2zM",
+      "lessonVideos": [
+        {
+          "title": "1-dars",
+          "videoUrl": "https://www.youtube.com/watch?v=0PCYjP3I2zM"
+        },
+        {
+          "title": "2-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "3-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "4-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "5-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "6-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "7-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "8-dars",
+          "videoUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "ielts-prep",
+      "category": "til",
+      "title": "Ingliz tili: IELTS tayyorlov",
+      "teacher": "Malika Yo'ldosheva",
+      "level": "O'rta",
+      "duration": "16 hafta",
+      "lessons": 60,
+      "rating": 4.9,
+      "students": 1560,
+      "accent": "#5B8C7A",
+      "summary": "Barcha 4 ko'nikma bo'yicha maqsadli balga erishish uchun tizimli tayyorgarlik.",
+      "syllabus": [
+        "Listening strategiyalari",
+        "Reading tezligi va tushunish",
+        "Writing Task 1 va Task 2",
+        "Speaking amaliyoti",
+        "Mock test va tahlil"
+      ],
+      "plans": {
+        "oddiy": {
+          "price": 350000,
+          "features": [
+            "Video darslar",
+            "Mock testlar",
+            "Forumda savol-javob"
+          ]
+        },
+        "premium": {
+          "price": 540000,
+          "features": [
+            "Video darslar",
+            "Mock testlar",
+            "Forumda savol-javob",
+            "Speaking bo'yicha 1:1 mentorlik",
+            "Writing tekshiruvi",
+            "Sertifikat"
+          ]
+        }
+      },
+      "image": "https://grantlar.uz/wp-content/uploads/2023/10/online.png",
+      "videoUrl": "https://www.youtube.com/watch?v=0hGugnWgMeQ",
+      "lessonVideos": [
+        {
+          "title": "1-dars",
+          "videoUrl": "https://www.youtube.com/watch?v=0hGugnWgMeQ"
+        },
+        {
+          "title": "2-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "3-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "4-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "5-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "6-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "7-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "8-dars",
+          "videoUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "english-conversation",
+      "category": "til",
+      "title": "Amaliy Ingliz tili suhbat kursi",
+      "teacher": "John Smith",
+      "level": "Boshlang'ich",
+      "duration": "12 hafta",
+      "lessons": 36,
+      "rating": 4.6,
+      "students": 2100,
+      "accent": "#5B8C7A",
+      "summary": "Kundalik hayotda erkin so'zlashish uchun amaliy suhbat kursi.",
+      "syllabus": [
+        "Kundalik lug'at va iboralar",
+        "Talaffuz mashqlari",
+        "Rolli o'yinlar orqali amaliyot",
+        "Tinglab tushunish",
+        "Erkin suhbat klublari"
+      ],
+      "plans": {
+        "oddiy": {
+          "price": 300000,
+          "features": [
+            "Video darslar",
+            "Suhbat klublari",
+            "Forumda savol-javob"
+          ]
+        },
+        "premium": {
+          "price": 460000,
+          "features": [
+            "Video darslar",
+            "Suhbat klublari",
+            "Forumda savol-javob",
+            "1:1 speaking mentorlik",
+            "Sertifikat"
+          ]
+        }
+      },
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0IZkTxGodiRpHxvgP_zvnD9Bjb74d75OAqnBVwBvytVuLrVSUcynV5iOW&s=10",
+      "videoUrl": "https://www.youtube.com/watch?v=2pHkf1X_h5o",
+      "lessonVideos": [
+        {
+          "title": "1-dars",
+          "videoUrl": "https://www.youtube.com/watch?v=2pHkf1X_h5o"
+        },
+        {
+          "title": "2-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "3-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "4-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "5-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "6-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "7-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "8-dars",
+          "videoUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "korean-basics",
+      "category": "til",
+      "title": "Koreys tili boshlang'ich kurs",
+      "teacher": "Kim Minji",
+      "level": "Boshlang'ich",
+      "duration": "12 hafta",
+      "lessons": 36,
+      "rating": 4.8,
+      "students": 830,
+      "accent": "#5B8C7A",
+      "summary": "Hangul alifbosidan boshlab oddiy suhbatlashishgacha bo'lgan yo'l.",
+      "syllabus": [
+        "Hangul alifbosi",
+        "Asosiy grammatika",
+        "Kundalik iboralar",
+        "Tinglab tushunish",
+        "Qisqa suhbatlar amaliyoti"
+      ],
+      "plans": {
+        "oddiy": {
+          "price": 320000,
+          "features": [
+            "Video darslar",
+            "Mashqlar",
+            "Forumda savol-javob"
+          ]
+        },
+        "premium": {
+          "price": 480000,
+          "features": [
+            "Video darslar",
+            "Mashqlar",
+            "Forumda savol-javob",
+            "1:1 mentorlik",
+            "Sertifikat"
+          ]
+        }
+      },
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&q=80",
+      "videoUrl": "https://www.youtube.com/watch?v=-bKxA-ex1ds",
+      "lessonVideos": [
+        {
+          "title": "1-dars",
+          "videoUrl": "https://www.youtube.com/watch?v=-bKxA-ex1ds"
+        },
+        {
+          "title": "2-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "3-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "4-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "5-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "6-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "7-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "8-dars",
+          "videoUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "startup-basics",
+      "category": "biznes",
+      "title": "Startap asoslari va biznes-reja",
+      "teacher": "Otabek Qodirov",
+      "level": "O'rta",
+      "duration": "8 hafta",
+      "lessons": 24,
+      "rating": 4.7,
+      "students": 410,
+      "accent": "#3E5C76",
+      "summary": "G'oyadan investorlarga taqdim etiladigan biznes-rejagacha bo'lgan jarayon.",
+      "syllabus": [
+        "G'oyani validatsiya qilish",
+        "Bozor tahlili",
+        "Moliyaviy model",
+        "Pitch deck tayyorlash",
+        "Investorlar bilan muloqot"
+      ],
+      "plans": {
+        "oddiy": {
+          "price": 400000,
+          "features": [
+            "Video darslar",
+            "Shablon va vositalar",
+            "Forumda savol-javob"
+          ]
+        },
+        "premium": {
+          "price": 610000,
+          "features": [
+            "Video darslar",
+            "Shablon va vositalar",
+            "Forumda savol-javob",
+            "1:1 mentorlik",
+            "Pitch deck tahlili",
+            "Sertifikat"
+          ]
+        }
+      },
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=900&q=80",
+      "videoUrl": "https://www.youtube.com/watch?v=1LBAMj-rfaA",
+      "lessonVideos": [
+        {
+          "title": "1-dars",
+          "videoUrl": "https://www.youtube.com/watch?v=1LBAMj-rfaA"
+        },
+        {
+          "title": "2-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "3-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "4-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "5-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "6-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "7-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "8-dars",
+          "videoUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "digital-marketing",
+      "category": "biznes",
+      "title": "Raqamli marketing va SMM",
+      "teacher": "Zarina Ergasheva",
+      "level": "Boshlang'ich",
+      "duration": "6 hafta",
+      "lessons": 18,
+      "rating": 4.8,
+      "students": 1340,
+      "accent": "#3E5C76",
+      "summary": "Ijtimoiy tarmoqlarda brendni tanitish va reklama kampaniyalarini boshqarish.",
+      "syllabus": [
+        "SMM strategiyasi",
+        "Kontent reja tuzish",
+        "Instagram va Facebook Ads",
+        "Analitika va KPI",
+        "Amaliy kampaniya loyihasi"
+      ],
+      "plans": {
+        "oddiy": {
+          "price": 370000,
+          "features": [
+            "Video darslar",
+            "Shablonlar",
+            "Forumda savol-javob"
+          ]
+        },
+        "premium": {
+          "price": 560000,
+          "features": [
+            "Video darslar",
+            "Shablonlar",
+            "Forumda savol-javob",
+            "1:1 mentorlik",
+            "Kampaniya tahlili",
+            "Sertifikat"
+          ]
+        }
+      },
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=900&q=80",
+      "videoUrl": "https://www.youtube.com/watch?v=-L8bgyQy_Y8",
+      "lessonVideos": [
+        {
+          "title": "1-dars",
+          "videoUrl": "https://www.youtube.com/watch?v=-L8bgyQy_Y8"
+        },
+        {
+          "title": "2-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "3-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "4-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "5-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "6-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "7-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "8-dars",
+          "videoUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "financial-literacy",
+      "category": "biznes",
+      "title": "Moliyaviy savodxonlik",
+      "teacher": "Rustam Davlatov",
+      "level": "Boshlang'ich",
+      "duration": "5 hafta",
+      "lessons": 15,
+      "rating": 4.9,
+      "students": 1920,
+      "accent": "#3E5C76",
+      "summary": "Shaxsiy byudjet, jamg'arma va investitsiya asoslarini o'rganasiz.",
+      "syllabus": [
+        "Byudjet tuzish",
+        "Jamg'arma strategiyalari",
+        "Kredit va qarzlarni boshqarish",
+        "Investitsiya asoslari",
+        "Moliyaviy maqsadlar rejasi"
+      ],
+      "plans": {
+        "oddiy": {
+          "price": 280000,
+          "features": [
+            "Video darslar",
+            "Byudjet shabloni",
+            "Forumda savol-javob"
+          ]
+        },
+        "premium": {
+          "price": 420000,
+          "features": [
+            "Video darslar",
+            "Byudjet shabloni",
+            "Forumda savol-javob",
+            "1:1 moliyaviy maslahat",
+            "Sertifikat"
+          ]
+        }
+      },
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=900&q=80",
+      "videoUrl": "https://www.youtube.com/watch?v=0EqiVMCMRDo",
+      "lessonVideos": [
+        {
+          "title": "1-dars",
+          "videoUrl": "https://www.youtube.com/watch?v=0EqiVMCMRDo"
+        },
+        {
+          "title": "2-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "3-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "4-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "5-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "6-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "7-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "8-dars",
+          "videoUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "course-1787836121110",
+      "category": "dasturlash",
+      "title": "Flutter mobil",
+      "teacher": "Sardor Aliyev",
+      "level": "Boshlang'ich",
+      "duration": "8 hafta",
+      "lessons": 20,
+      "rating": 5,
+      "students": 0,
+      "accent": "#5B4CF0",
+      "summary": "",
+      "syllabus": [
+        ""
+      ],
+      "image": "",
+      "videoUrl": "https://youtu.be/RrQQ-Rh2l24?list=PL5Vpe35DMxiZw_cZKNxz6wkuFJt10opOA",
+      "lessonVideos": [
+        {
+          "title": "1-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "2-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "3-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "4-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "5-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "6-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "7-dars",
+          "videoUrl": ""
+        },
+        {
+          "title": "8-dars",
+          "videoUrl": ""
+        }
+      ],
+      "plans": {
+        "oddiy": {
+          "price": 250,
+          "features": [
+            "Video darslar"
+          ]
+        },
+        "premium": {
+          "price": 550,
+          "features": [
+            "Video darslar",
+            "Mentorlik"
+          ]
+        }
+      },
+      "translations": {
+        "uz": {
+          "title": "Flutter mobil",
+          "summary": "",
+          "syllabus": [
+            ""
+          ]
+        },
+        "en": {
+          "title": "",
+          "summary": "",
+          "syllabus": [
+            ""
+          ]
+        },
+        "ru": {
+          "title": "",
+          "summary": "",
+          "syllabus": [
+            ""
+          ]
+        }
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "dasturlash",
+      "name": "Dasturlash",
+      "icon": "💻",
+      "period": "1-DARS",
+      "description": "Kod yozishni noldan yoki mavjud bilimingizni chuqurlashtiring."
+    },
+    {
+      "id": "dizayn",
+      "name": "Dizayn",
+      "icon": "🎨",
+      "period": "2-DARS",
+      "description": "Interfeys va vizual dizayn asoslarini o'rganing."
+    },
+    {
+      "id": "til",
+      "name": "Til o'rganish",
+      "icon": "🗣️",
+      "period": "3-DARS",
+      "description": "Xorijiy tillarni amaliyot orqali o'zlashtiring."
+    },
+    {
+      "id": "biznes",
+      "name": "Biznes",
+      "icon": "📈",
+      "period": "4-DARS",
+      "description": "Startap, marketing va moliya bo'yicha ko'nikmalar."
+    }
+  ],
+  "orders": [
+    {
+      "name": "svfevrfve",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-20T12:55:31.919Z",
+      "total": 590000,
+      "items": [
+        {
+          "courseId": "js-react",
+          "courseTitle": "JavaScript va React bilan Web dasturlash",
+          "planId": "oddiy",
+          "planName": "oddiy",
+          "price": 590000
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "abu",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-20T12:57:12.202Z",
+      "total": 890000,
+      "items": [
+        {
+          "courseId": "js-react",
+          "courseTitle": "JavaScript va React bilan Web dasturlash",
+          "planId": "premium",
+          "planName": "premium",
+          "price": 890000
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "cercverver",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-20T13:05:46.030Z",
+      "total": 590000,
+      "items": [
+        {
+          "courseId": "js-react",
+          "courseTitle": "JavaScript va React bilan Web dasturlash",
+          "planId": "oddiy",
+          "planName": "oddiy",
+          "price": 590000
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "fvervr4",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-20T13:08:15.247Z",
+      "total": 590000,
+      "items": [
+        {
+          "courseId": "js-react",
+          "courseTitle": "JavaScript va React bilan Web dasturlash",
+          "planId": "oddiy",
+          "planName": "oddiy",
+          "price": 590000
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "lox",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-20T13:10:42.496Z",
+      "total": 590000,
+      "items": [
+        {
+          "courseId": "js-react",
+          "courseTitle": "JavaScript va React bilan Web dasturlash",
+          "planId": "oddiy",
+          "planName": "oddiy",
+          "price": 590000
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "abu",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-20T13:27:55.666Z",
+      "total": 590000,
+      "items": [
+        {
+          "courseId": "js-react",
+          "courseTitle": "JavaScript va React bilan Web dasturlash",
+          "planId": "oddiy",
+          "planName": "oddiy",
+          "price": 590000
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "abdura",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-21T14:02:30.505Z",
+      "total": 590000,
+      "items": [
+        {
+          "courseId": "js-react",
+          "courseTitle": "JavaScript va React bilan Web dasturlash",
+          "planId": "oddiy",
+          "planName": "oddiy",
+          "price": 590000
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "vfreveff",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-21T14:02:59.355Z",
+      "total": 690000,
+      "items": [
+        {
+          "courseId": "py-fullstack",
+          "courseTitle": "Python asoslaridan Full-Stack gacha",
+          "planId": "premium",
+          "planName": "premium",
+          "price": 690000
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "uvcur3bcyue",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-21T14:14:05.184Z",
+      "total": 460000,
+      "items": [
+        {
+          "courseId": "english-conversation",
+          "courseTitle": "Amaliy Ingliz tili suhbat kursi",
+          "planId": "premium",
+          "planName": "premium",
+          "price": 460000
+        }
+      ],
+      "id": 9
+    },
+    {
+      "name": "huvfgebvhuebv",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-21T14:41:00.371Z",
+      "total": 540000,
+      "items": [
+        {
+          "courseId": "ielts-prep",
+          "courseTitle": "Ingliz tili: IELTS tayyorlov",
+          "planId": "premium",
+          "planName": "premium",
+          "price": 540000
+        }
+      ],
+      "id": 10
+    },
+    {
+      "name": "hvgeuvbeuvb",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-22T12:41:13.017Z",
+      "total": 420000,
+      "items": [
+        {
+          "courseId": "figma-product",
+          "courseTitle": "Figma bilan mahsulot dizayni",
+          "planId": "oddiy",
+          "planName": "oddiy",
+          "price": 420000
+        }
+      ],
+      "id": 11
+    },
+    {
+      "name": "cevfve",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-22T12:50:20.875Z",
+      "total": 450000,
+      "items": [
+        {
+          "courseId": "py-fullstack",
+          "courseTitle": "Python asoslaridan Full-Stack gacha",
+          "planId": "oddiy",
+          "planName": "oddiy",
+          "price": 450000
+        }
+      ],
+      "id": 12
+    },
+    {
+      "name": "cwsdvcew",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-22T12:55:40.663Z",
+      "total": 690000,
+      "items": [
+        {
+          "courseId": "py-fullstack",
+          "courseTitle": "Python asoslaridan Full-Stack gacha",
+          "planId": "premium",
+          "planName": "premium",
+          "price": 690000
+        }
+      ],
+      "id": 13
+    },
+    {
+      "name": "cwcvwecew",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-22T13:00:34.553Z",
+      "total": 420000,
+      "items": [
+        {
+          "courseId": "financial-literacy",
+          "courseTitle": "Moliyaviy savodxonlik",
+          "planId": "premium",
+          "planName": "premium",
+          "price": 420000
+        }
+      ],
+      "id": 14
+    },
+    {
+      "name": "jhbfuef",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-22T13:03:02.018Z",
+      "total": 690000,
+      "items": [
+        {
+          "courseId": "py-fullstack",
+          "courseTitle": "Python asoslaridan Full-Stack gacha",
+          "planId": "premium",
+          "planName": "premium",
+          "price": 690000
+        }
+      ],
+      "id": 15
+    },
+    {
+      "name": "verfverv",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-25T13:13:33.922Z",
+      "total": 690000,
+      "items": [
+        {
+          "courseId": "py-fullstack",
+          "courseTitle": "Python asoslaridan Full-Stack gacha",
+          "planId": "premium",
+          "planName": "premium",
+          "price": 690000
+        }
+      ],
+      "id": 16
+    },
+    {
+      "name": "ceverv",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-25T13:14:12.018Z",
+      "total": 420000,
+      "items": [
+        {
+          "courseId": "figma-product",
+          "courseTitle": "Figma bilan mahsulot dizayni",
+          "planId": "oddiy",
+          "planName": "oddiy",
+          "price": 420000
+        }
+      ],
+      "id": 17
+    },
+    {
+      "name": "efrveve",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-25T13:15:16.352Z",
+      "total": 400000,
+      "items": [
+        {
+          "courseId": "startup-basics",
+          "courseTitle": "Startap asoslari va biznes-reja",
+          "planId": "oddiy",
+          "planName": "oddiy",
+          "price": 400000
+        }
+      ],
+      "id": 18
+    },
+    {
+      "name": "aloo",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-25T13:16:41.135Z",
+      "total": 590000,
+      "items": [
+        {
+          "courseId": "js-react",
+          "courseTitle": "JavaScript va React bilan Web dasturlash",
+          "planId": "oddiy",
+          "planName": "oddiy",
+          "price": 590000
+        }
+      ],
+      "id": 19
+    },
+    {
+      "name": "Abdurahmon",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-25T13:22:57.968Z",
+      "total": 450000,
+      "items": [
+        {
+          "courseId": "py-fullstack",
+          "courseTitle": "Python asoslaridan Full-Stack gacha",
+          "planId": "oddiy",
+          "planName": "oddiy",
+          "price": 450000
+        }
+      ],
+      "id": 20
+    },
+    {
+      "name": "cwdcwecw",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-27T06:22:37.315Z",
+      "total": 460000,
+      "items": [
+        {
+          "courseId": "english-conversation",
+          "courseTitle": "Amaliy Ingliz tili suhbat kursi",
+          "planId": "premium",
+          "planName": "premium",
+          "price": 460000
+        }
+      ],
+      "id": 21
+    },
+    {
+      "name": "Abdurahmon",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-27T13:08:02.811Z",
+      "total": 640000,
+      "items": [
+        {
+          "courseId": "figma-product",
+          "courseTitle": "Figma bilan mahsulot dizayni",
+          "planId": "premium",
+          "planName": "premium",
+          "price": 640000
+        }
+      ],
+      "id": 22
+    },
+    {
+      "name": "m njhgvcfh",
+      "phone": "+998777134313",
+      "paymentMethod": "cash",
+      "createdAt": "2026-08-27T14:18:55.716Z",
+      "total": 690000,
+      "items": [
+        {
+          "courseId": "py-fullstack",
+          "courseTitle": "Python asoslaridan Full-Stack gacha",
+          "planId": "premium",
+          "planName": "premium",
+          "price": 690000
+        }
+      ],
+      "id": 23
+    }
+  ],
+  "users": [
+    {
+      "name": "admin",
+      "email": "admin1234@gmail.com",
+      "password": "admin1234",
+      "role": "admin",
+      "createdAt": "2026-08-20T12:36:43.040Z",
+      "id": 1
+    },
+    {
+      "name": "abdurahmon",
+      "email": "baxtiyorovabduraxmon.1202@gmail.com",
+      "password": "Abdurahmon2013",
+      "role": "student",
+      "createdAt": "2026-08-20T12:37:14.285Z",
+      "id": 2
+    },
+    {
+      "name": "Abdurahmon",
+      "email": "abu@gmail.com",
+      "password": "abdu123",
+      "role": "student",
+      "createdAt": "2026-08-20T12:37:33.293Z",
+      "id": 3
+    },
+    {
+      "name": "abu",
+      "email": "abu@gmai.com",
+      "password": "abu123",
+      "role": "student",
+      "createdAt": "2026-08-20T12:38:51.430Z",
+      "id": 4
+    },
+    {
+      "name": "Abdurahmon123",
+      "email": "Abdurahmon123@gmail.com",
+      "password": "Abdurahmon2013",
+      "role": "student",
+      "createdAt": "2026-08-27T05:49:58.356Z",
+      "id": 5
+    },
+    {
+      "name": "abdulloh",
+      "email": "abdulloh123@gmail.com",
+      "password": "abdulloh",
+      "role": "student",
+      "createdAt": "2026-08-27T06:21:17.092Z",
+      "id": 6
+    },
+    {
+      "name": "Abdurahmon",
+      "email": "abdurahmon1@gmail.com",
+      "password": "123456",
+      "role": "student",
+      "createdAt": "2026-08-27T13:07:22.882Z",
+      "id": 7
+    }
+  ],
+  "teachers": [
+    {
+      "id": "t-1",
+      "name": "Sardor Aliyev",
+      "specialty": "Python va backend"
+    },
+    {
+      "id": "t-2",
+      "name": "Dilnoza Karimova",
+      "specialty": "JavaScript va React"
+    },
+    {
+      "id": "t-3",
+      "name": "Jasur Rakhimov",
+      "specialty": "Node.js va PostgreSQL"
+    }
+  ]
+}
